@@ -1,5 +1,5 @@
 # ToDoApp
-#To start the project, you need to download docker.
+# To start the project, you need to download docker.
 
 #Open the terminal in the root directory and enter:
 
